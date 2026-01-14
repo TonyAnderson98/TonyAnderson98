@@ -27,6 +27,8 @@ Meu foco é o desenvolvimento **Full Stack**, com ênfase em arquitetura de soft
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 
+**Testes:**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 ---
 
