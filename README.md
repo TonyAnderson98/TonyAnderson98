@@ -38,7 +38,6 @@ Estou focado em projetos que aplicam **Arquitetura em Camadas** e boas práticas
 
 - **Brinca Bem:** Uma plataforma completa (Server & Client) para doação e gestão de brinquedos, utilizando Node.js, Express, Next.js e TypeScript.
 - **Finanças Pessoais:** Um app para controle financeiro construído com a stack moderna do React.
-- **Maré Sorte:** Um sistema web focado em sorteios e rifas.
 
 ---
 
