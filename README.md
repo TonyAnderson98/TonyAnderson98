@@ -10,8 +10,11 @@
 
 Sou **Analista de Sistemas Júnior**, graduado em Física pela UFMA e graduando em Engenharia de Software pela UNICESUMAR, com pós-graduação em Banco de Dados.
 Atuo no desenvolvimento e na evolução de sistemas corporativos para uma indústria de fertilizantes agrícolas, trabalhando em soluções que integram software, dados e processos industriais.
+
 Meu trabalho envolve desde aplicações de supervisão e monitoramento de biorreatores até sistemas de gestão de estoque e ferramentas internas para operações empresariais.
+
 Tenho interesse especial em **arquitetura de software, engenharia de backend, integração entre sistemas, modelagem de dados e desenvolvimento de aplicações confiáveis e sustentáveis**.
+
 Meu objetivo profissional é evoluir de júnior para pleno, aprofundando minha capacidade de projetar soluções, diagnosticar problemas, avaliar trade-offs técnicos e tomar decisões de engenharia com autonomia e responsabilidade.
 
 ---
